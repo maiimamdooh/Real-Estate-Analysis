@@ -2,6 +2,7 @@
 
 ##  Project Overview
 A comprehensive analytics solution for real estate businesses providing insights into sales performance, agent productivity, client behavior, and market trends. Built with Azure cloud services and Power BI.
+Full Project **presentation:** https://untitled-9irzmvt.gamma.site/
 
 ##  Key Features
 - **📊 Interactive Dashboards**: Sales, Agent, Client, and Property analytics
