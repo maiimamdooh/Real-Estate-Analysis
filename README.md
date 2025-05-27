@@ -4,6 +4,16 @@
 A comprehensive analytics solution for real estate businesses providing insights into sales performance, agent productivity, client behavior, and market trends. Built with Azure cloud services and Power BI.
 Full Project **presentation:** https://untitled-9irzmvt.gamma.site/
 
+## 📁 Dataset Overview 
+-   **Source**: Primarily local CSV files (Agents, Clients, Properties,
+    Sales, Visits) ingested into Azure SQL DB.
+-   **Domain**: Real Estate
+-   **Primary Attributes** (Examples - adapt based on actual data):
+    -   Property Details: Location, size, price, type
+    -   Sales Data: Transaction dates, prices, agent involved
+    -   Client/Agent Info: Contact details, interactions
+    -   Visit Data: Property visit logs, dates
+
 ##  Key Features
 - **📊 Interactive Dashboards**: Sales, Agent, Client, and Property analytics
 - **📈 Predictive Analytics**: Sales forecasting with 90%+ accuracy
@@ -14,14 +24,13 @@ Full Project **presentation:** https://untitled-9irzmvt.gamma.site/
 ## 🛠 Technology Stack
 | Component          | Technology Used         |
 |--------------------|-------------------------|
-| Data Storage       | Azure SQL Database      |
+| Cloud Platform    |Microsoft Azure                |
+| Database     | Azure SQL Database, SQL Server Management Studio (SSMS)      |
 | Data Prossesing    | Azure Data Factory      |
-| ML                | Azure Machine Learning  |
+| Machine Learning   | Azure Machine Learning  |
 | Analysis           | SQL                     |
 | Visualization     | Power BI                |
 
-
-## 📂 Data Structure
 
 ## Key Metrics
 - Total Sales: $1.54B
